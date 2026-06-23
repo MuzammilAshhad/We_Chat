@@ -20,9 +20,6 @@
 
 ---
 
-## 📸 Screenshots:
-
-**Actual app looks even better! 😃**
 
 <!-- <kbd>
   <img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/1.png" width=30% height=30%/>
