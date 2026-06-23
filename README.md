@@ -24,7 +24,7 @@
 
 **Actual app looks even better! 😃**
 
-<kbd>
+<!-- <kbd>
   <img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/1.png" width=30% height=30%/>
   <img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/2.png" width=30% height=30%/>
   <img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/3.png" width=30% height=30%/>
@@ -33,7 +33,7 @@
   <img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/6.png" width=30% height=30%/>
   <img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/7.png" width=30% height=30%/>
   <img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/8.png" width=30% height=30%/>
-</kbd>
+</kbd> -->
 
 ---
 
